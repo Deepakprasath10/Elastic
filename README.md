@@ -4,7 +4,7 @@ A Flask-based machine learning web application that predicts the **quality of re
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Upload a CSV file with wine properties
 - Predict wine quality using a trained ElasticNet Regression model
@@ -14,7 +14,7 @@ A Flask-based machine learning web application that predicts the **quality of re
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 - **Algorithm:** ElasticNet Regression  
 - **Libraries Used:** `scikit-learn`, `pandas`, `numpy`
@@ -34,7 +34,7 @@ A Flask-based machine learning web application that predicts the **quality of re
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 ```
 wine-quality-elasticnet/
 │
